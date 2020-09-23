@@ -1,0 +1,17 @@
+
+
+section.dark{
+    background: black;
+    color: white;
+}
+
+section.retro{
+    background: green;
+    color: white;
+}
+
+
+.botones>button{
+    border-radius: 50%;
+    height: 35px;
+}
